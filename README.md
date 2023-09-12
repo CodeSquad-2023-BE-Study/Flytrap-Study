@@ -35,3 +35,4 @@
 |:----|:-----|:---|:-----------|
 | 객체지향 | [오브젝트](https://www.yes24.com/Product/Goods/74219491) 책 읽고 주제 발표 | 2023. 3. 30 </br> ~ 2023. 5. 4 | [링크](https://github.com/CodeSquad-2023-BE-Study/Object-Study) |
 | Database | 데이터베이스 책(미정)을 읽고 주제 발표 | 2023. 5. 10 | [링크](https://github.com/CodeSquad-2023-BE-Study/DB-Study) |
+| 프로젝트 회고 | [📝 Jasypt로 yml 파일 암호화 및 암호화 키를 환경변수로 저장하는 방법](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Study/commit/a5f3aa569c3810a5161253f28db3ef802265c694) |
