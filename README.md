@@ -34,5 +34,5 @@
 | 주제 | 활동 내용 | 활동 기간 | Repository |
 |:----|:-----|:---|:-----------|
 | 객체지향 | [오브젝트](https://www.yes24.com/Product/Goods/74219491) 책 읽고 주제 발표 | 2023. 3. 30 </br> ~ 2023. 5. 4 | [링크](https://github.com/CodeSquad-2023-BE-Study/Object-Study) |
-| Database | 데이터베이스 책(미정)을 읽고 주제 발표 | 2023. 5. 10 | [링크](https://github.com/CodeSquad-2023-BE-Study/DB-Study) |
-| 프로젝트 회고 | [📝 Jasypt로 yml 파일 암호화 및 암호화 키를 환경변수로 저장하는 방법](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Study/commit/a5f3aa569c3810a5161253f28db3ef802265c694) <br>[📝 Proxy Server](https://velog.io/@leekhy02/Proxy) <br> [📝 Spring Event를 사용하여 도메인간 의존성 낮추기](https://new-pow.tistory.com/70) |
+| Database | [데이터베이스 개론](https://product.kyobobook.co.kr/detail/S000001743852) 책 읽고 주제 발표 | 2023. 5. 10 | [링크](https://github.com/CodeSquad-2023-BE-Study/DB-Study) |
+| 프로젝트 회고 | [📝 Jasypt로 yml 파일 암호화 및 암호화 키를 환경변수로 저장하는 방법](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Study/commit/a5f3aa569c3810a5161253f28db3ef802265c694) <br>[📝 Proxy Server](https://velog.io/@leekhy02/Proxy) <br> [📝 Spring Event를 사용하여 도메인간 의존성 낮추기](https://new-pow.tistory.com/70) | 2023. 9. 5 </br> ~ |
